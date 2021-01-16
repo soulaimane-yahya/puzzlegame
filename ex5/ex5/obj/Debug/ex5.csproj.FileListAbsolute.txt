@@ -1,0 +1,10 @@
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\bin\Debug\ex5.exe.config
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\bin\Debug\ex5.exe
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\bin\Debug\ex5.pdb
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.Form1.resources
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.Properties.Resources.resources
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.csproj.GenerateResource.cache
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.exe
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.pdb
+C:\Users\soula\Desktop\C#\TD\ex5\ex5\obj\Debug\ex5.csprojAssemblyReference.cache
